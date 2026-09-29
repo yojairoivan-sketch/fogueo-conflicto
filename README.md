@@ -1,3 +1,3 @@
 # Fogueo: conflicto de merge
 
-Estado: prototipo.
+Estado: prototipo v0.1.
